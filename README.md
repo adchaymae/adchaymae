@@ -40,7 +40,7 @@ Here are a few projects I've worked on:
 
 ## 📫 Get in Touch
 - **LinkedIn**: [Chaymae Adlane](https://www.linkedin.com/in/chaymae-adlane/)
-- **Email**: [chaymaeadlane65@gmail.com)](mailto:chaymaeadlane65@gmail.com) 
+- **Email**: [chaymaeadlane65@gmail.com](mailto:chaymaeadlane65@gmail.com) 
 
 Feel free to explore my repositories and reach out for collaboration or networking!
 
