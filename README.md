@@ -5,7 +5,7 @@ I'm a **5th-year Computer Engineering** student with a passion for **Artificial 
 ## 💼 About Me
 - 🎓 **Education**: 
   - **EMSI**: Computer Engineering with a focus on MIAGE.
-  - **1337 (42-Network)**: Intensive programming education.
+  - **42-Network**: IT Architecture Expert – Computer Science
   
 - 🌱 **Currently Learning**: Advanced AI techniques and full-stack development.
 
